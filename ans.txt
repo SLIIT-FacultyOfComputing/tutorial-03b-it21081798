@@ -1,0 +1,1 @@
+input length =input width =Length : 6, Width  : 7
